@@ -1,0 +1,29 @@
+{
+  "name": "nodejs_service",
+  "version": "1.0.0",
+  "description": "NodeJS service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dev800/nodejs_service.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Service",
+    "Chinese"
+  ],
+  "author": "dev800",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev800/nodejs_service/issues"
+  },
+  "homepage": "https://github.com/dev800/nodejs_service#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "pinyin": "^2.9.0"
+  }
+}
